@@ -1,7 +1,7 @@
 # Projeto Pizzaria do Bairro 
 Estudando HTML & CSS. Criando um site de Pizzaria
 
-Protitipo de um site para Pizzaria e afins.
+Prototipo de um site para Pizzaria e afins.
 
 ![logo do top](img/Home.png)
 ![log do center](img/Bebidas.png)
