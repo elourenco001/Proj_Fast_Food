@@ -118,27 +118,22 @@ h5{
 
 }
 button{
-    font-family: arial;
-    text-align: center;
+    
+    text-align: auto;
     padding: 5px;
-    font-size: 1.9rem;
-    background-color: rgba(50, 205, 50, 0.5);
+    background-color: rgba(255.0.0 1.0);
     color: #fff;
-    border: solid;
+   
 
 }
 
 @media (min-width: 280px) and (max-width: 820px){
 
     button{
-        font-family: arial;
-        text-align: center;
-        padding: 5px;
-        font-size: 1.9rem;
-        background-color: rgba(50, 205, 50, 0.5);
-        color: #fff;
-        border: solid;
-    
+    text-align: auto;
+    padding: 5px;
+    background-color: rgba(255.0.0 1.0);
+    color: #fff;
     }
 
 }
