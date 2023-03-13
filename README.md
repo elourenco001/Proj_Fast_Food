@@ -1,2 +1,2 @@
-# Proj_Fast_Food
+# Projeto Fast Food 
 Estudando HTML / CSS &amp; JS. Criando um site de Fast Food
